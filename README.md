@@ -1,4 +1,4 @@
-# 😴 Sleep Quality Prediction System
+# Sleep Quality Prediction System
 
 A Python-based Machine Learning application that predicts sleep quality based on lifestyle and health-related factors. The system analyzes user habits such as sleep duration, screen time, exercise, stress level, and caffeine intake to determine whether sleep quality is Good, Average, or Poor.
 
