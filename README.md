@@ -35,8 +35,6 @@ SleepQualityPrediction/
 ---
 
 # Installation
-
-# Install required packages
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 ```
