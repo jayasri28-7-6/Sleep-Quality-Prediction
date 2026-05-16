@@ -87,9 +87,9 @@ python sleep_quality_predictor.py
 ---
 
 # Machine Learning Model
-```bash
+
 Decision Tree Classifier
-```
+
 ---
 
 # Future Improvements
