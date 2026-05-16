@@ -1,18 +1,22 @@
-# Sleep Quality Prediction System
+# 😴 Sleep Quality Prediction System
 
-A Machine Learning based Sleep Quality Prediction System developed using Python and Decision Tree Classifier.  
-The system predicts whether sleep quality is Good, Average, or Poor based on lifestyle and health-related factors.
+A Python-based Machine Learning application that predicts sleep quality based on lifestyle and health-related factors. The system analyzes user habits such as sleep duration, screen time, exercise, stress level, and caffeine intake to determine whether sleep quality is Good, Average, or Poor.
 
-## Features
+---
 
-- Predicts sleep quality using machine learning
+# Features
+
+- Predicts sleep quality using Machine Learning
 - Calculates sleep health score
-- Provides personalized improvement suggestions
+- Provides personalized health suggestions
 - Visualizes current sleep factors
 - Displays suggested sleep improvement plan
-- Compares current vs recommended lifestyle habits using graphs
+- Compares current vs recommended lifestyle habits
+- Interactive graphical analysis using Matplotlib
 
-## Technologies Used
+---
+
+# Technologies Used
 
 - Python
 - Pandas
@@ -20,9 +24,32 @@ The system predicts whether sleep quality is Good, Average, or Poor based on lif
 - Matplotlib
 - Scikit-learn
 
-## Input Parameters
+---
 
-The prediction system uses the following inputs:
+# Project Structure
+
+SleepQualityPrediction/
+│── sleep_quality_predictor.py
+│── README.md
+
+---
+
+# Installation
+
+# Install required packages
+
+pip install pandas numpy matplotlib scikit-learn
+
+---
+
+# How to Run
+
+cd SleepQualityPrediction
+python sleep_quality_predictor.py
+
+---
+
+# Input Parameters
 
 - Sleep Duration
 - Screen Time Before Bed
@@ -30,39 +57,51 @@ The prediction system uses the following inputs:
 - Stress Level
 - Caffeine Intake
 
-## Machine Learning Model
+---
 
-The project uses:
+# Output
 
-- Decision Tree Classifier
+- Predicts Sleep Quality
+- Displays Sleep Health Score
+- Provides Improvement Suggestions
+- Generates Visualization Charts
 
-for training and predicting sleep quality.
+---
 
-## Output
+# Visualization Charts
 
-The system predicts:
+- Current Sleep Factors Chart
+- Suggested Sleep Improvement Plan
+- Current vs Suggested Comparison Graph
 
-- Good Sleep Quality
-- Average Sleep Quality
-- Poor Sleep Quality
+---
 
-It also provides:
+# Example Features
 
-- Sleep Health Score
-- Health Improvement Suggestions
-- Data Visualization Charts
+- Analyze daily sleep habits
+- Predict sleep quality instantly
+- Compare unhealthy vs healthy lifestyle patterns
+- View graphical health analytics
+- Generate improvement recommendations
 
-## Visualization Graphs
+---
 
-The project generates:
+# Machine Learning Model
 
-1. Current Sleep Factors Chart
-2. Suggested Sleep Improvement Plan
-3. Current vs Suggested Comparison Chart
+Decision Tree Classifier
 
-## How to Run
+---
 
-Install required libraries:
+# Future Improvements
 
-```bash
-pip install pandas numpy matplotlib scikit-learn
+- Add Streamlit web interface
+- Real-time sleep monitoring
+- AI-based health recommendations
+- Database integration
+- Mobile application support
+
+---
+
+# Conclusion
+
+This project demonstrates how Machine Learning can be applied in healthcare and wellness applications to analyze user lifestyle habits and predict sleep quality effectively.
