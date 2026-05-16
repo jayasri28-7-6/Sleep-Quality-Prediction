@@ -27,26 +27,26 @@ A Python-based Machine Learning application that predicts sleep quality based on
 ---
 
 # Project Structure
-
+```bash
 SleepQualityPrediction/
-│── sleep_quality_predictor.py
+│── sleep quality predictor.py
 │── README.md
-
+```
 ---
 
 # Installation
 
 # Install required packages
-
+```bash
 pip install pandas numpy matplotlib scikit-learn
-
+```
 ---
 
 # How to Run
-
+```bash
 cd SleepQualityPrediction
 python sleep_quality_predictor.py
-
+```
 ---
 
 # Input Parameters
@@ -87,9 +87,9 @@ python sleep_quality_predictor.py
 ---
 
 # Machine Learning Model
-
+```bash
 Decision Tree Classifier
-
+```
 ---
 
 # Future Improvements
