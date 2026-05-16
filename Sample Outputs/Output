@@ -1,0 +1,37 @@
+========================================
+        SLEEP QUALITY PREDICTOR
+========================================
+
+Model Accuracy: 0.85 (85%)
+
+----------------------------------------
+USER INPUT
+----------------------------------------
+Sleep Duration           : 6 hours
+Screen Time Before Bed   : 30 minutes
+Exercise Duration        : 10 minutes
+Stress Level             : 5 / 10
+Caffeine Intake Level    : Moderate (2)
+
+
+----------------------------------------
+PREDICTION RESULT
+----------------------------------------
+Predicted Sleep Quality  : POOR
+Sleep Health Score       : 65 / 100
+
+----------------------------------------
+SUGGESTIONS
+----------------------------------------
+- Increase sleep duration
+- Increase physical activity
+- Reduce stress level
+- Avoid screen usage before sleep
+
+----------------------------------------
+NEXT STEPS
+----------------------------------------
+Press Enter -> View Sleep Improvement Plan
+Press Enter -> Compare Current vs Ideal Sleep Pattern
+
+========================================
